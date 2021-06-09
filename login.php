@@ -29,7 +29,7 @@ session_start();
 //$_SESSION["uname"]=$username;
 
 $con=mysqli_connect("localhost","root","bose123$","bankdb");
-//testing
+//test
 //$username=mysqli_real_escape_string ($con,$username);
 //$password=mysqli_real_escape_string ($con,$password);
 
